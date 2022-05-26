@@ -47,6 +47,4 @@
 </p>
 
 
-**GITHUB STAT'S**
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ruckibartosz&hide=contribs,prs)
